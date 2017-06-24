@@ -66,13 +66,13 @@ body {
 }
 
 .page .panel-heading {
-  background-color: #eee;
+  background-color: #242424;
   font-weight:bold;
 }
 
 .page .panel-collapse .panel-body {
   padding: 9px 15px;
-  background-color: #F5F5D5;
+  background-color: #eee;
   font-size: 16px;
   line-height: 24px;
 }
@@ -112,10 +112,10 @@ li i {
    hyper links
    ========================================================================== */
 
-a{color:#1863a1}
-a:focus{color:#0181eb}
-a:hover{color:#0181eb}
-a:active{color:#01579f}
+a{color:#3AB278}
+a:focus{color:#3AB278}
+a:hover{color:#085951}
+a:active{color:#3AB278}
 
 a.label-anchor {
   position: relative;
@@ -250,7 +250,7 @@ h1,h2,h3,h4,h5,h6{
 
 h2{
   margin: 0.83em 0;
-  color: green;
+  color: #3AB278;
   border-bottom: 2px #ccc solid;
   padding-top: 40px;
   margin-top: -45px;
@@ -259,7 +259,7 @@ h2{
 h3 {
   border-bottom: 1.5px solid #dcdce9;
   margin-top: -5px;
-  color: #9C4C17;
+  color: #258295;
 }
 
 h4 {
@@ -297,7 +297,7 @@ h2,h3{
   margin: 0.5em 0px;
 }
 .page-header .brand{
-  color: #bbbbbb;
+  color: #3AB278;
   text-shadow: 0 1px 0 rgba(255,255,255,.1), 0 0 30px rgba(255,255,255,.125);
   -webkit-transition: all .2s linear;
      -moz-transition: all .2s linear;
@@ -363,7 +363,7 @@ a.search-result-title {
 }
 
 p.search-result {
-  color=#555;
+  color: #555;
 }
 
 em.search-keyword {
