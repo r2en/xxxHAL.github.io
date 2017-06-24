@@ -3,6 +3,25 @@
   
     
     <entry>
+      <title><![CDATA[setup]]></title>
+      <url>/2017/06/24/setup/</url>
+      <content type="html"><![CDATA[<p>Development Environment page show my computer spec , installing Libraly and how to setup and so on.</p>
+<h3 id="Currently-My-CP-Spec"><a href="#Currently-My-CP-Spec" class="headerlink" title="Currently My CP Spec."></a>Currently My CP Spec.</h3><p>OS: OS X Yosemite ver.10.10.5<br>Processer 1.4GHz inetl core i5<br>Memory 4GB 1600MHz DDR3<br>Graphics intel HD Graphics 5000 1536MB</p>
+<p>Usually, I can use MacBookAir.</p>
+<p>When I study Artificial Intelligence(exp. Machine Learning) I use ubuntu or MacBookPro.</p>
+<p>And I study FPGA , I use windowsOS.</p>
+]]></content>
+      
+        <categories>
+            
+            <category> Development Environment </category>
+            
+        </categories>
+        
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[homebrew]]></title>
       <url>/2017/06/24/homebrew/</url>
       <content type="html"></content>
